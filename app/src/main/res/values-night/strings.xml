@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Cursiva">Letra_Cursiva</string>
+    <string name="Letra_Negrita">Negrita</string>
+    <string name="Text_Nombre">Antonio Lopez</string>
+</resources>
